@@ -1,4 +1,4 @@
-Este archivo se subirá a GitHub en la rama desarrollo
+Este archivo se subirá a GitHub en la rama main
 
 -> El repositorio en GitHub tendrá una rama por defecto llamada "master" o "main"
 
